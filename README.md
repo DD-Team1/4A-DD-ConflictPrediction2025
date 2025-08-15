@@ -26,8 +26,7 @@ Le projet inclut :
 ├── src/ # Code source (ETL, modèles, utils)
 ├── reports/ # Documents, rapports LaTeX
 ├── scripts/ # Scripts utilitaires
-└── README.md
-
+└── README.md # Documentation du projet
 ---
 
 ## 📊 Sources de données
