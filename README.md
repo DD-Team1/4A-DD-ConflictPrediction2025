@@ -85,9 +85,9 @@ Afin d’enrichir le modèle et couvrir à la fois les causes structurelles et l
 ## 🚀 Workflow Git
 
 - `main` : branche stable
-- `william/` : développement par William
-- `romain/` : développement par Romain
-- `florian/` : développement par Florian  
+- `William#1/` : développement par William
+- `Romain#1/` : développement par Romain
+- `Florian#1/` : développement par Florian  
 💡 Toute **pull request** doit être validée par un autre membre.
 
 ---
