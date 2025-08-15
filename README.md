@@ -21,6 +21,7 @@ Le projet inclut :
 
 ## 📂 Structure du projet
 
+---
 ├── data/ # CSV / JSON / données brutes
 ├── notebooks/ # Jupyter Notebooks d'exploration et de prototypage
 ├── src/ # Code source (ETL, modèles, utils)
