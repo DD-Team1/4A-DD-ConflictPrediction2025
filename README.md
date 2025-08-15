@@ -21,13 +21,13 @@ Le projet inclut :
 
 ## 📂 Structure du projet
 
-├── data/ # CSV / JSON / données brutes
-├── notebooks/ # Jupyter Notebooks d'exploration et de prototypage
-├── src/ # Code source (ETL, modèles, utils)
-├── reports/ # Documents, rapports LaTeX
-├── scripts/ # Scripts utilitaires
-└── README.md
-
+---
+- data/ # CSV / JSON / données brutes
+- notebooks/ # Jupyter Notebooks d'exploration et de prototypage
+- src/ # Code source (ETL, modèles, utils)
+- reports/ # Documents, rapports LaTeX
+- scripts/ # Scripts utilitaires
+- README.md # Documentation du projet
 ---
 
 ## 📊 Sources de données
@@ -85,9 +85,9 @@ Afin d’enrichir le modèle et couvrir à la fois les causes structurelles et l
 ## 🚀 Workflow Git
 
 - `main` : branche stable
-- `william/` : développement par William
-- `romain/` : développement par Romain
-- `florian/` : développement par Florian  
+- `William#1/` : développement par William
+- `Romain#1/` : développement par Romain
+- `Florian#1/` : développement par Florian  
 💡 Toute **pull request** doit être validée par un autre membre.
 
 ---
