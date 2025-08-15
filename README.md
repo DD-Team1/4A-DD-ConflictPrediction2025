@@ -22,12 +22,12 @@ Le projet inclut :
 ## 📂 Structure du projet
 
 ---
-├── data/ # CSV / JSON / données brutes
-├── notebooks/ # Jupyter Notebooks d'exploration et de prototypage
-├── src/ # Code source (ETL, modèles, utils)
-├── reports/ # Documents, rapports LaTeX
-├── scripts/ # Scripts utilitaires
-└── README.md # Documentation du projet
+- data/ # CSV / JSON / données brutes
+- notebooks/ # Jupyter Notebooks d'exploration et de prototypage
+- src/ # Code source (ETL, modèles, utils)
+- reports/ # Documents, rapports LaTeX
+- scripts/ # Scripts utilitaires
+- README.md # Documentation du projet
 ---
 
 ## 📊 Sources de données
