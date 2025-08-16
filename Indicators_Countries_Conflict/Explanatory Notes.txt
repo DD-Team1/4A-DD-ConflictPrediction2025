@@ -1,0 +1,10 @@
+ Explanatory Notes
+CPI (Corruption Perceptions Index): Measures the perception of corruption in the public sector on a scale from 0 (highly corrupt) to 100 (very transparent).
+
+Democracy Index: Assesses the state of democracy in a country on a scale from 0 (authoritarian regime) to 10 (full democracy).
+
+Fragile States Index: A composite indicator measuring a country’s stability on a scale from 0 (very stable) to 120 (very fragile).
+
+Freedom in the World: Ranks countries according to their level of political and civil freedom on a scale from 1 (completely free) to 7 (not free).
+
+Global Peace Index: Assesses peace in a country on a scale from 1 (very peaceful) to 5 (very violent).
