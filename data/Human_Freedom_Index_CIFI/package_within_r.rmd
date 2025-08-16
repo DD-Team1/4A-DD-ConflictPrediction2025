@@ -1,0 +1,9 @@
+# Si tu n'as pas encore devtools :
+install.packages("devtools")
+
+# Installer le package depuis GitHub
+devtools::install_github("acforrester/FreedomData")
+
+# Charger le dataset HFI
+library(FreedomData)
+data("HFI")  # nom hypothétique, à confirmer dans la doc
